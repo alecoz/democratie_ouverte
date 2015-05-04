@@ -1,3 +1,5 @@
+![Exemple de chantier participatif](http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/ChantierParticipatif-1030x689.jpg)
+
 # Les chantiers participatifs de Trémargat
 
 Trémargat est un village Breton qui pratique un **modèle de démocratie locale inédit**.
