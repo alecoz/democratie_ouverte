@@ -1,4 +1,4 @@
-#Brigade, le Tinder de la politique
+# Brigade, le Tinder de la politique
 
 L'application **[Brigade](https://www.brigade.com/)** a été lancée le 17 juin 2015 par une "start-up civique" Californienne avec pour objectif "*d'augmenter la participation des électeurs de la génération Y et de leurs frères et sœurs*".
 
