@@ -1,4 +1,4 @@
-#Cap Collectif : mobiliser l'intelligence citoyenne
+# Cap Collectif : mobiliser l'intelligence citoyenne
 
 **Cap Collectif** est une start-up civique française qui propose un [outil de mobilisation de l'intelligence citoyenne](http://www.cap-collectif.com/).
 
