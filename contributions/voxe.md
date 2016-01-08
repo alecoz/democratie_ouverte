@@ -36,14 +36,14 @@ Vous souhaitez contribuer à Voxe.org ? [Contactez nous pour intégrer une nouve
 **Léonore de Roquefeuil** a un profil de sciences politiques et relations internationales. Elle porte le projet à plein temps.
 
 
-![Charlotte](https://voxe.s3.amazonaws.com/assets/web/about/team/charlotter-ee758cce705f79aace70a0dcb9d0bb18.jpg)
-
-**Charlotte Richard** a une formation de journaliste, travaille aujourd'hui à plein temps pour une plateforme de crowdfunding et donne de son temps libre à Voxe.
-
-
 ![Edouard](https://voxe.s3.amazonaws.com/assets/web/about/team/edouards-54c9df9e55721e375d48094e8a4d3c1a.jpg)
 
 **Edouard Schlumberger** est le fondateur, avec une formation en commerce, il travaille aujourd'hui à plein temps sur sa propre startup & sur Voxe pendant son temps libre.
+
+
+![Charlotte](https://voxe.s3.amazonaws.com/assets/web/about/team/charlotter-ee758cce705f79aace70a0dcb9d0bb18.jpg)
+
+**Charlotte Richard** a une formation de journaliste, travaille aujourd'hui à plein temps pour une plateforme de crowdfunding et donne de son temps libre à Voxe.
 
 
 ![Benjaminlsl](https://voxe.s3.amazonaws.com/assets/web/about/team/benjaminlsl-3b5900049b252c0a06d3acc14cd7eb58.jpg)
