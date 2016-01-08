@@ -32,7 +32,6 @@ Vous souhaitez contribuer à Voxe.org ? [Contactez nous pour intégrer une nouve
 ## Équipe
 
 ![Leonore](https://voxe.s3.amazonaws.com/assets/web/about/team/leonorer-ee5295b7b0d8bde02b728347abffff7a.png)
-
 **Léonore de Roquefeuil** a un profil de sciences politiques et relations internationales. Elle porte le projet à plein temps.
 
 
