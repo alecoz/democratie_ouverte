@@ -5,6 +5,7 @@ L'outil principal est un **comparateur neutre de programmes politiques** pour le
 
 ## Histoire 
 **Comparateur neutre et international de programmes politiques**
+
 Alors que la parole politique est dévaluée, Voxe.org revient au fond des propositions et permet à chacun de se forger une opinion éclairée et objective avant de voter.
 Un site internet et des [applications mobiles](http://voxe.org/apps) permettent à tous et à tout moment de consulter, comparer et contextualiser les propositions des candidats et des partis politiques.
 Les propositions - [issues des programmes officiels](http://voxe.org/about/how) - sont intégrées à Voxe.org sans aucune forme d’éditorialisation dans un souci de transparence, de clarté et d’indépendance. Elles sont également enrichies de données contextuelles : statistiques, vidéos, [Open Data](http://fr.wikipedia.org/wiki/Donn%C3%A9es_ouvertes), liens…
