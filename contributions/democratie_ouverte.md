@@ -11,3 +11,9 @@ DO est une organisation non gouvernementale indépendante et transpartisane qui 
 * Proposer aux élus et aux administrations des outils et méthodes pour gagner en efficacité et en légitimité
 * Tester de nouvelles manières de faire de la politique
 * Faire advenir une société ouverte, plus transparente, participative et collaborative. 
+
+Face à la montée des extrémismes politiques et religieux, face aux risques écologiques et environnementaux, face aux dérives sécuritaires et militaires, face à l'accroissement des inégalités sociales et des inégalités de richesse, face aux crises économiques et financières, nous considérons que la seule réponse efficace est "**plus et mieux de démocratie**".
+
+Notre objectif commun est d'améliorer le fonctionnement politique de nos sociétés en concevant et en expérimentant de nouveaux outils, méthodes et mécanismes démocratiques.
+
+Site web : www.democratieouverte.org
