@@ -11,7 +11,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/bulbintow
 
 ## Lien : https://www.bulbintown.com/
 
-![cap_ou_pas_cap](https://github.com/multibao/contributions/blob/master/media/bulbintown.jpg?raw=true)
+![bulbintown](https://github.com/multibao/contributions/blob/master/media/bulbintown.jpg?raw=true)
 
 > Le site de Crowdfunding des territoires et de la proximité
 
