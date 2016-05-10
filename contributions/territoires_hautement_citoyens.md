@@ -10,7 +10,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/territoir
 
 # Territoires Hautement Citoyens
 
-[Territoires Hautement Citoyens](http://www.territoires-hautement-citoyens.fr) (THC) accompagne et met en réseau les territoires dans leur transition démocratique vers une citoyenneté active au service de l’intérêt général. L'objectif est de répondre à la **crise démocratique** en s'appuyant sur la force du local et des territoires.
+> [Territoires Hautement Citoyens](http://www.territoires-hautement-citoyens.fr) (THC) accompagne et met en réseau les territoires dans leur transition démocratique vers une citoyenneté active au service de l’intérêt général. L'objectif est de répondre à la **crise démocratique** en s'appuyant sur la force du local et des territoires.
 
 Le programme THC repose sur deux postulats :
 * Seul un engagement local et massif des citoyens permettra de répondre aux défis politiques, sociaux, économiques et environnementaux que nous devons relever collectivement.
