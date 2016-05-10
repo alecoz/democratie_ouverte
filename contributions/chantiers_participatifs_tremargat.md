@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Chantiers participatifs de Trémargat
+description: Liste ouverte, programme co-construit et chantiers participatifs : le village de Trémargat pratique un modèle de démocratie locale inédit.
+image_url: https://github.com/multibao/contributions/blob/master/media/tremargat.jpg?raw=true
+---
+
+-->
+
 # Les chantiers participatifs de Trémargat 
 
 ![tremargat](https://framapic.org/YjV3tXHgIaVq/cagYShbu)
