@@ -11,7 +11,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/capcollec
 
 # Cap Collectif : mobiliser l'intelligence citoyenne
 
-[cap_collectif](https://github.com/multibao/contributions/blob/master/media/capcollectif.jpg?raw=true)
+![cap_collectif](https://github.com/multibao/contributions/blob/master/media/capcollectif.jpg?raw=true)
 
 > **Cap Collectif** est une start-up civique française qui propose un [outil de mobilisation de l'intelligence citoyenne](http://www.cap-collectif.com/).
 
