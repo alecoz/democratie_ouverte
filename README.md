@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Démocratie ouverte: initiatives
+description: On vous présente sur ce dépôt des initiatives citoyennes et institutionnelles mises en place pour renforcer la démocratie. 
+image_url: https://github.com/multibao/contributions/blob/master/media/democratie_ouverte_logo.jpg?raw=true
+---
+
+--> 
+
 ![Démocratie ouverte](http://www.cap-collectif.com/wp-content/uploads/2015/09/Logo-DO-540px.png)
 
 > Lien : http://democratieouverte.org
