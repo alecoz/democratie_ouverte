@@ -1,4 +1,15 @@
+<!--
+
+---
+title: Démocratie ouverte
+description: Démocratie ouverte est un collectif citoyen francophone qui regroupe les innovateurs démocratiques : associations, start-up, élus, agents publics et citoyens engagés pour ouvrir leurs gouvernance. 
+image_url: https://github.com/multibao/contributions/blob/master/media/democratie_ouverte.jpg?raw=true
+---
+
+-->
+
 **Démocratie Ouverte** (DO) est un collectif citoyen francophone qui regroupe les innovateurs démocratiques : associations, start-up, élus, agents publics et citoyens engagés pour ouvrir leurs gouvernance. 
+
 Nous nous réunissons autour de 3 grandes valeurs :
 * la TRANSPARENCE et la responsabilité 
 * la PARTICIPATION et le pouvoir d'agir
