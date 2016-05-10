@@ -3,7 +3,7 @@
 ---
 title: Wiki-Brest et a-Brest
 description: a-Brest est un portail qui donne à voir et relie les espaces d’écriture collaborative autour d’internet, de l’expression multimédia et de la coopération au Pays de Brest
-image_url: https://github.com/multibao/contributions/blob/master/media/wiki-brest.jpg?raw=true
+image_url: https://github.com/multibao/contributions/blob/master/media/wiki_brest.jpg?raw=true
 ---
 
 -->
