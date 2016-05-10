@@ -10,6 +10,8 @@ image_url: https://github.com/multibao/contributions/blob/master/media/bretagne_
 
 **Bretagne Creative** est un réseau régional d’acteurs de l’innovation sociale.
 
+![Bretagne Creative](https://github.com/multibao/contributions/blob/master/media/bretagne_creative.jpg?raw=true)
+
 Inspiré par les méthodologies collaboratives qui permettent la rencontre de l’innovation sociale ouverte et des territoires en réseau, Bretagne Créative permet de :
 * Partager, relier et se croiser : En se rencontrant en échangeant avec d’autres, idées et connaissances, les projets se renforcent et d’autres émergent.
 * Expliciter, essaimer : En diffusant largement les initiatives et en expliquant les « recettes », chacun peut se les réapproprier, les adapter et les améliorer.
