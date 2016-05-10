@@ -10,7 +10,7 @@ image_url: http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/
 
 @-Brest est un portail qui donne à voir et relie les espaces d’écriture collaborative (wikis) autour d’internet, de l’expression multimédia et de la coopération au Pays de Brest. 
 
-Ses contenus sont écrits de manière collaborative et ouverte à tous, sous une licence « Créative Commons » qui permet une large diffusion et réutilisation. 
+Ses contenus sont écrits de manière collaborative et ouverte à tous, sous une licence « Creative Commons » qui permet une large diffusion et réutilisation. 
 
 Plus de 10 sites différents ont été créés en 10 ans sur des thématiques spécifiques (numérique, histoire, action sociale, conseils de quartiers, etc.) générant plus de 10.000 articles.
 
