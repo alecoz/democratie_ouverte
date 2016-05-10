@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Conseils quartier
+description: Les conseils de quartier sont, en France, des structures associant des habitants d’une grande ville à la gestion municipale.
+image_url: https://github.com/multibao/contributions/blob/master/media/conseil_quartier.jpg?raw=true
+---
+
+-->
+
 # Conseils de quartier
 
 ![conseils quartier](http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/Conseil-29.jpg)
