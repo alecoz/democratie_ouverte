@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Schéma de gouvernance de Saillans
+description: Favoriser l'implication des citoyens dans les décisions de l'action publique locale. Exemple de la ville de Saillans.
+image_url: https://github.com/multibao/contributions/blob/master/media/saillans.jpg?raw=true
+---
+
+-->
+
+
 # Schéma de gouvernance de Saillans
 
 ![Gouv](https://framapic.org/VZYlRaKY1lpD/L9p9sOYz)
