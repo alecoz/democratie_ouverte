@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Léon à Mérignac 
+description: Léon est un service participatif qui permet aux habitants d’alerter l’administration de la ville de certains problèmes (voirie dégradée, signalétique manquante, graffitis…)
+image_url: https://github.com/multibao/contributions/blob/master/media/leon-merignac.jpg?raw=true
+---
+
+-->
+
 # Léon à Mérignac 
 
 ![merignac](https://framapic.org/19OXY7APRr0M/gJbU827S)
