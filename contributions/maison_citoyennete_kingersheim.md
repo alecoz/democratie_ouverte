@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Maison de la citoyenneté de Kingersheim
+description: Un lieu où s'exercent les fonctions essentielles de la démocratie.
+image_url: https://github.com/multibao/contributions/blob/master/media/maison_citoyennete_kingersheim.jpg?raw=true
+---
+
+-->
+
 # Maison de la citoyenneté de Kingersheim
 
 ![Maison](https://framapic.org/iaUKj1FuxwIl/OmYyN0Ha)
