@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Budget participatif Grigny
+description: Près de 60% du budget d’investissement de la commune était à disposition des citoyens qui pouvaient proposer des projets et décider collectivement des projets retenus et mis en œuvre par la collectivité.
+image_url: https://github.com/multibao/contributions/blob/master/media/grigny.jpg?raw=true
+---
+
+-->
+
 # Budget participatif de Grigny
 
 ![budget](http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/GrignyBudgetParticipatif-13.jpg)
