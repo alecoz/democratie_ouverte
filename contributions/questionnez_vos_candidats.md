@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Questionnez vos candidats
+description: Echanger en ligne avec les candidats aux élections.
+image_url: https://github.com/multibao/contributions/blob/master/media/parlement_citoyens.jpg?raw=true
+---
+
+-->
+
+
 # Questionnez vos candidats
 
 ## Présentation
