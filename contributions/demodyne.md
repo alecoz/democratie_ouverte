@@ -1,9 +1,20 @@
+<!--
+
+---
+title: Démodyne
+description: est un portail web citoyen qui permet d’accéder en un seul endroit à tous les outils nécessaires à la vie civique moderne, sur trois niveaux - ville, région, pays
+image_url: https://github.com/multibao/contributions/blob/master/media/demodyne.jpg?raw=true
+---
+
+-->
+
 ## Lien : https://www.demodyne.org/
 
-**Adieu idéologie, messianisme politique et système pyramidaux fermés.
-Bonjour méthodologie, collaboration et gouvernance directe !**
+> Adieu idéologie, messianisme politique et système pyramidaux fermés. Bonjour méthodologie, collaboration et gouvernance directe !
 
 ## C’est quoi DEMODYNE ?
+
+![Demodyne](https://github.com/multibao/contributions/blob/master/media/demodyne.jpg?raw=true)
 
 DEMODYNE est un portail web citoyen qui permet d’accéder en un seul endroit à tous les outils nécessaires à la vie civique moderne, sur trois niveaux: ville, région, pays.
 
