@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Budget participatif Partis
+description: Le budget participatif Parisien est celui dont le montant est le plus important au monde, avec 500 millions d’euros pour 2015.
+image_url: https://github.com/multibao/contributions/blob/master/media/budget-participatif-paris-2016.jpg?raw=true
+---
+
+-->
+
 # Budget participatif de la ville de Paris
 
 Le budget participatif Parisien est celui dont le montant est le plus important au monde : 500 millions d’euros pour 2015 !
