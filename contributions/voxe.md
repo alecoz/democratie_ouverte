@@ -1,9 +1,3 @@
-<!--
-title: Voxe
-description: propose un processus transparent et ouvert pour désigner un candidat citoyen pour les prochaines élections présidentielles
-image_url: https://yt3.ggpht.com/-28MTa_k6FW0/AAAAAAAAAAI/AAAAAAAAAAA/KFx5Y9UtScE/s88-c-k-no-rj-c0xffffff/photo.jpg
--->
-
 # Voxe
 
 **[Voxe.org](http://www.voxe.org)** c'est un mouvement qui vise à **replacer le citoyen au centre de la démocratie** en le rendant proactif, notamment au moment des élections.
