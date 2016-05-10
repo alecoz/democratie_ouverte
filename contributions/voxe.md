@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Voxe
+description: c'est un mouvement qui vise à replacer le citoyen au centre de la démocratie en le rendant proactif, notamment au moment des élections. L'outil principal est un comparateur neutre de programmes politiques pour les élections.
+image_url: https://github.com/multibao/contributions/blob/master/media/voxe.jpg?raw=true
+---
+
+-->
+
 # Voxe
 
 **[Voxe.org](http://www.voxe.org)** c'est un mouvement qui vise à **replacer le citoyen au centre de la démocratie** en le rendant proactif, notamment au moment des élections.
