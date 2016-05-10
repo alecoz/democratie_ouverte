@@ -1,3 +1,13 @@
+<!--
+
+---
+title: La Fabrique de Roubaix
+description: La Fabrique est une plateforme web conçue et animée par la mairie de Roubaix, visant à améliorer l'efficacité de la démocratie locale.
+image_url: https://github.com/multibao/contributions/blob/master/media/la_fabrique.jpg?raw=true
+---
+
+-->
+
 # La Fabrique de Roubaix
 
 
