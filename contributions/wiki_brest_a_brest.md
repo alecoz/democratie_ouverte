@@ -1,6 +1,6 @@
 ---
 title: Wiki-Brest et a-Brest
-description: @-Brest est un portail qui donne à voir et relie les espaces d’écriture collaborative (wikis) autour d’internet, de l’expression multimédia et de la coopération au Pays de Brest
+description: a-Brest est un portail qui donne à voir et relie les espaces d’écriture collaborative autour d’internet, de l’expression multimédia et de la coopération au Pays de Brest
 ---
 
 #	Wiki-Brest et @-Brest
