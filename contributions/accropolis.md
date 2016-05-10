@@ -1,5 +1,16 @@
+<!--
+
+---
+title: Accropolis
+description: Directement inspirée des plateformes de streaming de jeux vidéo, Accropolis s'adresse à un large public de citoyennes et de citoyens qui ont soif de compréhension des enjeux publics et veulent se réapproprier leur démocratie.
+image_url: https://github.com/multibao/contributions/blob/master/media/accropolis.jpg?raw=true
+---
+
+-->
+
 ## Lien : http://accropolis.fr/
-**Favoriser la réappropriation citoyenne de la politique en décryptant l'actualité en direct**
+
+> Favoriser la réappropriation citoyenne de la politique en décryptant l'actualité en direct
 
 Directement inspirée des plateformes de streaming de jeux vidéo, Accropolis s'adresse à un large public de citoyennes et de citoyens qui ont soif de compréhension des enjeux publics et veulent se réapproprier leur démocratie.
 
