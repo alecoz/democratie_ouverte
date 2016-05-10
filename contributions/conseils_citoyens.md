@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Conseils citoyens
+description: Les conseils citoyens ont été créés par la loi du 21 février 2014 « de programmation pour la ville et la cohésion urbaine ».
+image_url: https://github.com/multibao/contributions/blob/master/media/conseil_quartier.jpg?raw=true
+---
+
+-->
+
 # Conseils citoyens
 
 ![conseils citoyens](http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/Conseil-29.jpg)
