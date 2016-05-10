@@ -1,6 +1,14 @@
-# Civocracy
+<!--
 
-![conseils quartier](http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/Conseil-29.jpg)
+---
+title: Civocracy
+description: Civocracy permet aux collectivités d'intéragir de manière dynamique et innovante avec leurs citoyens et aux citoyens de s'impliquer  dans la vie locale.
+image_url: https://github.com/multibao/contributions/blob/master/media/civocracy.jpg?raw=true
+---
+
+-->
+
+# Civocracy
 
 Avec sa plateforme en ligne développée  pour encourager la **discussion** et l'**action**, **Civocracy**  permet aux collectivités d'intéragir de manière dynamique et innovante avec leurs citoyens et aux citoyens de s'impliquer  dans la vie locale.
 
