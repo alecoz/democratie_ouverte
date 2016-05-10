@@ -1,6 +1,7 @@
 ---
 title: Wiki-Brest et a-Brest
 description: a-Brest est un portail qui donne à voir et relie les espaces d’écriture collaborative autour d’internet, de l’expression multimédia et de la coopération au Pays de Brest
+image_url: http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/Capture-d%E2%80%99%C3%A9cran-2015-02-24-%C3%A0-17.35.44.png
 ---
 
 #	Wiki-Brest et @-Brest
