@@ -1,6 +1,6 @@
 ---
 title: Demodyne
-description: DEMODYNE est un portail web citoyen qui permet d’accéder en un seul endroit à tous les outils nécessaires à la vie civique moderne, sur trois niveaux: ville, région, pays
+description: DEMODYNE est un portail web citoyen qui permet d’accéder en un seul endroit à tous les outils nécessaires à la vie civique moderne.
 ---
 
 ## Lien : https://www.demodyne.org/
