@@ -1,7 +1,5 @@
 # Journée citoyenne
 
-![Logo Journée Citoyenne](http://journeecitoyenne.fr/wp-content/uploads/2015/11/journee-citoyenne-version700.png)
-
 ## Qu’est-ce que la journée citoyenne ?
 
 Chaque année, durant une journée, les habitants d’une commune ou d’un quartier se mobilisent bénévolement pour réaliser ensemble des projets qu’ils ont eux-mêmes proposés (chantiers d’amélioration du cadre de vie, rénovation d’équipements, projets culturels…), dans des lieux symboliques utiles à tous.
@@ -33,3 +31,6 @@ C’est l’occasion pour tout habitant volontaire de devenir acteur pour le bie
 ## Lien - en savoir plus
 
 [www.journeecitoyenne.fr](http://journeecitoyenne.fr/)
+=========================
+
+![Logo Journée Citoyenne](http://journeecitoyenne.fr/wp-content/uploads/2015/11/journee-citoyenne-version700.png)
