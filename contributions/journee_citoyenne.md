@@ -28,7 +28,7 @@ C’est l’occasion pour tout habitant volontaire de devenir acteur pour le bie
 
 [![Video](http://www.dailymotion.com/thumbnail/320x240/video/x45kj13)](http://dai.ly/x45kj13)
 
-## Lien - en savoir plus
+## Site web
 
 [www.journeecitoyenne.fr](http://journeecitoyenne.fr/)
 =========================
