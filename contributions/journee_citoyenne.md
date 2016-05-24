@@ -33,6 +33,7 @@ C’est l’occasion pour tout habitant volontaire de devenir acteur pour le bie
 [www.journeecitoyenne.fr](http://journeecitoyenne.fr/)
 =========================
 
+
 ## Logo
 
 ![Logo Journée Citoyenne](http://journeecitoyenne.fr/wp-content/uploads/2015/11/journee-citoyenne-version700.png)
