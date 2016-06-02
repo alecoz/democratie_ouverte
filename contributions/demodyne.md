@@ -8,7 +8,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/demodyne.
 
 -->
 
-![demodyne](http://democratieouverte.org/media/default/0001/01/616bea5a66f8384209db53854e9d857be9ea1860.png )
+![demodyne](http://democratieouverte.org/media/cache/default_idea/default/0001/01/321_default_idea.png )
 
 ## Demodyne
 
