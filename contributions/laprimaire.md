@@ -8,12 +8,10 @@ image_url: https://github.com/multibao/contributions/blob/master/media/primaire_
 
 -->
 
-<iframe width="640" height="412" src="https://www.youtube.com/embed/pVRkKp8r5Zs?list=PL8bxkCnxvENRIRlgums5ssXjkuyLZN3LA" frameborder="0" allowfullscreen></iframe>
-
 
 ## LaPrimaire.org
 
-![demodyne](http://democratieouverte.org/media/default/0001/01/a2116d07e17afde082f1f20783587d9cd8b0b3d1.png)
+![laprimaire](http://democratieouverte.org/media/default/0001/01/a2116d07e17afde082f1f20783587d9cd8b0b3d1.png)
 
 [LaPrimaire.org](https://laprimaire.org) est une primaire ouverte, organisée pour permettre aux Français de choisir librement, de manière transparente et démocratique, les candidats qu'ils souhaitent voir se présenter à l'élection présidentielle de 2017 
 
@@ -35,6 +33,9 @@ LaPrimaire.org est organisée de manière entièrement bénévole par des citoye
 L’équipe dirigeante de l’association Democratech est composée de :
 - **Thibauld Favre**, ingénieur informatique
 - **David Guez**, avocat au Barreau de Paris
+
+
+<iframe width="640" height="412" src="https://www.youtube.com/embed/pVRkKp8r5Zs?list=PL8bxkCnxvENRIRlgums5ssXjkuyLZN3LA" frameborder="0" allowfullscreen></iframe>
 
 
 ## Contact
