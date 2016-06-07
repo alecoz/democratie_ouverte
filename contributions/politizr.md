@@ -1,5 +1,9 @@
 **Politizr**
 
+
+![politizr](http://democratieouverte.org/media/default/0001/01/2bdcbbe6bc9779a39e28931a97bd9f69c9eb5a83.png)
+
+
 Politizr est une plateforme indépendante et neutre permettant aux élu-e-s (et ancien-ne-s élu-e-s) de toute la France de débattre publiquement des sujets proposés par leurs concitoyens.
 
 
