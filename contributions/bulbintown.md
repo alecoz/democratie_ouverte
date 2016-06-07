@@ -10,6 +10,10 @@ image_url: https://github.com/multibao/contributions/blob/master/media/bulbintow
 
 **Bulb in Town**
 
+
+![bulbintown](http://democratieouverte.org/media/default/0001/01/388712ad23bc70972d85d7f3e902d7afaccdbc4b.png)
+
+
 [Bulb in Town](https://www.bulbintown.com) est une plate-forme de financement participatif, née en 2012, qui a déjà permis de financer plus de 350 projets ! Avec Bulb in Town, nous voulons donner une dimension humaine et locale à la finance en permettant aux habitants du quartier de contribuer à la création et au développement des entreprises (TPE, commerces, restaurants, cafés,etc), des associations et des commerces qui font la vie et la richesse de leur quartier, de leur ville, de leur région...
 
 
