@@ -10,6 +10,10 @@ image_url: https://github.com/multibao/contributions/blob/master/media/verite_po
 
 **Vérité Politique**
 
+
+![veritepolitique](http://democratieouverte.org/media/default/0001/01/2365a2240dd934872c62f833deaea00164a4b541.png)
+
+
 [Vérité Politique](http://www.veritepolitique.fr) est un site contributif et participatif créé pour contrôler la parole politique et interpeller vos dirigeants sur leurs contradictions, erreurs, promesses non tenues.
 
 **Histoire**
