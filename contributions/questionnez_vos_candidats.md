@@ -7,8 +7,6 @@ image_url: https://github.com/multibao/contributions/blob/master/media/questionn
 ---
 
 -->
-
-
 # Questionnez vos candidats
 
 ## Présentation
