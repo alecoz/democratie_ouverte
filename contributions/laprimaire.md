@@ -35,7 +35,7 @@ L’équipe dirigeante de l’association Democratech est composée de :
 - **David Guez**, avocat au Barreau de Paris
 
 
-<iframe width="280px"; height="315px" src="https://www.youtube.com/embed/pVRkKp8r5Zs?list=PL8bxkCnxvENRIRlgums5ssXjkuyLZN3LA" frameborder="0" allowfullscreen></iframe>
+<iframe width="280px"; height="160px" src="https://www.youtube.com/embed/pVRkKp8r5Zs?list=PL8bxkCnxvENRIRlgums5ssXjkuyLZN3LA" frameborder="0" allowfullscreen></iframe>
 
 
 ## Contact
