@@ -11,7 +11,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/primaire_
 
 ## LaPrimaire.org
 
-![laprimaire](http://democratieouverte.org/media/default/0001/01/a2116d07e17afde082f1f20783587d9cd8b0b3d1.png)
+<img src="http://democratieouverte.org/media/default/0001/01/a2116d07e17afde082f1f20783587d9cd8b0b3d1.png" style="width:100%; height:auto">
 
 [LaPrimaire.org](https://laprimaire.org) est une primaire ouverte, organisée pour permettre aux Français de choisir librement, de manière transparente et démocratique, les candidats qu'ils souhaitent voir se présenter à l'élection présidentielle de 2017 
 
