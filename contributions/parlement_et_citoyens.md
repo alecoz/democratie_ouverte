@@ -10,7 +10,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/parlement
 **Parlement et Citoyens**
 
 
-![parlement_citoyens](http://democratieouverte.org/media/default/0001/01/89a1a4819cf2d94bbda74c04b67d732a8fcf11a6.png)
+<img src="http://democratieouverte.org/media/default/0001/01/89a1a4819cf2d94bbda74c04b67d732a8fcf11a6.png" style="width:100%; height:auto">
 
 
 La plateforme [Parlement & Citoyens](http://www.parlement-et-citoyens.fr/) permet de participer à l'élaboration de la loi : les citoyens et les parlementaires peuvent y construire ensemble les solutions aux problèmes de notre pays.
