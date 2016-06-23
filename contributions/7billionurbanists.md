@@ -11,7 +11,7 @@ description: le collectif 7 Milliards d’Urbanistes regroupe des architectes, u
 ## 7 Billion Urbanists
 
 
-![7Billionurbanists](http://democratieouverte.org/media/default/0001/01/06db9909d73f5a412651806c2623c85ce2cff22f.png)
+<img src="http://democratieouverte.org/media/default/0001/01/06db9909d73f5a412651806c2623c85ce2cff22f.png" style="width:100%; height:auto">
 
 
 
