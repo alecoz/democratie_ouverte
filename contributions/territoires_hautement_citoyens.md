@@ -1,3 +1,5 @@
+<img src="http://democratieouverte.org//media/default/0001/01/98ed8dd4bd925be4c135f52822cfeae8e70b5c39.png" style="width:100%; height:auto">
+
 <!--
 
 ---
@@ -7,6 +9,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/territoir
 ---
 
 -->
+
 
 ## Territoires Hautement Citoyens
 
