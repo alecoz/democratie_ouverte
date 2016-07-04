@@ -8,7 +8,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/bretagne_
 
 -->
 
-##Bretagne Creative
+## Bretagne Creative
 
 [**Bretagne Creative**](http://www.bretagne-creative.net) est un réseau régional d’acteurs de l’innovation sociale.
 
