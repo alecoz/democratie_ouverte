@@ -9,7 +9,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/capoupasc
 -->
 
 
-##CAP ou pas cap ?
+## CAP ou pas cap ?
 
 > [CAP ou pas cap ? Comprendre et Agir à Paris !](https://capoupascap.paris/) propose une cartographie interactive et participative des initiatives de Paris avec plus de 500 initiatives référencées. Sa mission est d’être le catalyseur des alternatives citoyennes franciliennes, et d'accélérer l'émergence d'une société plus humaine, plus écologique et plus solidaire dont chacun – citoyen, alternative citoyenne et pouvoir public – soit co-acteur.
 
@@ -56,7 +56,7 @@ Pour mener à bien ces missions, l’association s’est fixée 3 actions :
 * les accompagne dans leur développement (formations au développement du pouvoir d’agir et au montage de projets citoyens, conseil),
 * met en œuvre les projets collectifs inter-alternatives découlant de la co-construction.
 
-##Equipe
+## Equipe
 
 « CAP ou pas cap ? » est un collectif de jeunes habitants de Paris, bénévoles ou à plein temps, principalement entre 20 et 35 ans (mais nous sommes ouverts à toute personne souhaitant participer au changement social, quel que soit son âge). Nous avons tous nos différences, parfois même nos divergences (dont nous débattons au cours de nos assemblées) mais nous partageons tous un trait commun : un désenchantement par rapport à une société qui manque de sens, pleine d'incohérences et d'injustices.
 
@@ -64,6 +64,6 @@ Face à cette situation, nous avons choisi de relever le défi.
 
 Si vous aussi vous n’arrivez pas à être indifférent aux maux de notre société, si ce défi vous parle, si vous avez des compétences à mettre à profit d'une cause qui a du sens, ou si vous souhaiter en acquérir au sein d'une équipe dynamique, rejoignez nous ! A « CAP ou pas cap ? », nous sommes ouverts à toutes celles et à tous ceux qui souhaitent participer au changement social.
 
-##Contact
+## Contact
 
 [information@capoupascap.info](mailto:information@capoupascap.info) 
