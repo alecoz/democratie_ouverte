@@ -8,7 +8,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/democrati
 
 --> 
 
-![Démocratie ouverte](http://www.cap-collectif.com/wp-content/uploads/2015/09/Logo-DO-540px.png)
+![Démocratie ouverte](http://democratieouverte.org/media/default/0001/01/0c2649bc9acb6f3f222b5c5f9a772c5c941cca04.png)
 
 > Lien : http://democratieouverte.org
 
