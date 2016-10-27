@@ -1,21 +1,27 @@
 ## Kawaa
 
-Description résumée / baseline (une ligne)
+[Kawaa](https://www.kawaa.co/fr/rencontres) est une plateforme collaborative pour développer le lien social, le vivre ensemble et la participation citoyenne dans la vie réelle.
 
 ## Histoire
 
-À remplir (quelques lignes)
+Créée en mars 2014, agréée "Entreprise Solidaire d'Utilité Sociale", Kawaa est une start-up au carrefour de l'entrepreneuriat social, de l'économie collaborative et de la CivicTech. Nous faisons partie du collectif Hello2017, initié par Voxe.org, pour développer la participation des jeunes dans le contexte des élections de 2017.
 
 ## Méthodologie
 
-À remplir (quelques lignes)
+Kawaa propose une plateforme pour réussir l'organisation de rencontres et d'évènements. Nous avons par ailleurs développé une méthodologie pour mobiliser citoyens, associations et lieux de convivialité pour l'organisation collaborative de débats.
 
 ## Équipe 
 
-À remplir (quelques lignes)
+Kévin André - Président cofondateur
+Boyan Barakov - Directeur technique
+Corinne Dardelet - Directrice du développement
+Eloïse Fontaine - Directrice associée en charge de la communication et des partenariats
 
 ## Contact
 
-À remplir (contacts et liens)
+[kevin@kawaa.co](mailto: kevin@kawaa.co)
 
-PS : vous pouvez ajouter des images, captures d'écrans, logo, etc. 
+[eloise@kawaa.co](mailto: eloise@kawaa.co)
+
+[corinne@kawaa.co](mailto:corinne@kawaa.co)
+
