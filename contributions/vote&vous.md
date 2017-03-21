@@ -9,14 +9,13 @@ Vote&Vous est politiquement neutre et n'est affiliée à aucun parti. Elle pours
 
 Utilisé pendant les élections européennes de 2014, le site internet de Vote&Vous poursuit plusieurs objectifs : 
 
-- Premièrement, la raison d'être de notre boîte à vote numérique consiste à  informer les citoyens grâce à des informations de première main recueillies directement auprès des partis politiques.
+Premièrement, la raison d'être de notre boîte à vote numérique consiste à  informer les citoyens grâce à des informations de première main recueillies directement auprès des partis politiques.
 
-- Deuxièmement, Vote&Vous permet de restituer le débat politique pré-électoral à un niveau plus rationnel et moins émotionnel. Vote&Vous, par un moyen de divertissement, recherche ensuite à encourager les gens qui ne se sentent que peu concernés par la politique (au premier rang desquels les jeunes) à découvrir les enjeux des élections et idéalement à aller voter.
+Deuxièmement, Vote&Vous permet de restituer le débat politique pré-électoral à un niveau plus rationnel et moins émotionnel. Vote&Vous, par un moyen de divertissement, recherche ensuite à encourager les gens qui ne se sentent que peu concernés par la politique (au premier rang desquels les jeunes) à découvrir les enjeux des élections et idéalement à aller voter.
 
-- Enfin, Vote&Vous doit aussi être un moyen de contrecarrer l’opinion diffusée selon laquelle les partis ne proposent plus de projets politiques différents.
+Enfin, Vote&Vous doit aussi être un moyen de contrecarrer l’opinion diffusée selon laquelle les partis ne proposent plus de projets politiques différents.
  
 En quelques mots, Vote&Vous a la volonté de renforcer la transparence, la participation des citoyens et donc la démocratie au sein du débat politique français.
-
 
 ## Méthodologie 
 
@@ -28,7 +27,7 @@ Vote&Vous repose sur le modèle néerlandais StemWijzer. Ce modèle se distingue
 
 ## Equipe 
 
-
+<img src=https://www.vote-et-vous.fr/uploads/2/6/5/0/26507687/published/dsc-0470.jpeg?1486588695>
 
 ## Contact 
 
