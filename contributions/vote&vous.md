@@ -7,7 +7,7 @@ Vote&Vous est politiquement neutre et n'est affiliée à aucun parti. Elle pours
 
 ## Histoire 
 
-Utilisé pendant les élections européennes de 2014, le site internet de Vote&Vous poursuit plusieurs objectifs : 
+Utilisé pendant les élections européennes de 2014, le site internet de Vote&Vous poursuit plusieurs objectifs. 
 
 Premièrement, la raison d'être de notre boîte à vote numérique consiste à  informer les citoyens grâce à des informations de première main recueillies directement auprès des partis politiques.
 
@@ -32,5 +32,3 @@ Vote&Vous repose sur le modèle néerlandais StemWijzer. Ce modèle se distingue
 ## Contact 
 
 [2017@vote-et-vous.fr](mailto:2017@vote-et-vous.fr) 
-
-
