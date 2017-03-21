@@ -32,5 +32,5 @@ EscapaDemos souhaite **mettre en place un véritable programme de sensibilisatio
 
 ## Contact 
 
-[contact@escapademos.com] (mailto:contact@escapademos.com)
+[contact@escapademos.com](mailto:contact@escapademos.com)
 
