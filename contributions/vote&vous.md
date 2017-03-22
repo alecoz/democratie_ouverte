@@ -3,6 +3,8 @@
 [Vote&Vous](https://www.vote-et-vous.fr) est une association française réalisant des projets dans le domaine de l'éducation civique en France et en Europe. 
 Ce projet se matérialise par un site internet sur lequel chacun peut tester ses opinions et les comparer à celles des partis politiques se présentant à un scrutin donné. Le terme de « Voting Advice Applications » (VAA) est employé pour caractériser ce type de programme. Vote&Vous a donc vocation à devenir la VAA de référence dans le paysage politique français. 
 
+En outre, Vote&Vous travaille en coopération avec l’Office franco-allemand et l’Agence fédérale allemande d’éducation civique pour mettre sur pied un partenariat franco-allemand dans le domaine de l’éducation civique. Deux « BarCamp » sont organisés à cet effet à Marseille et Hambourg en 2017. Une soixantaine de jeunes porteurs de projets d’éducation civique d’Allemagne et de France se réuniront pour échanger sur les méthodes, les enjeux et les possibles coopérations entre les deux pays.
+
 Vote&Vous est politiquement neutre et n'est affiliée à aucun parti. Elle poursuit un but d'éducation politique détachée de toute idéologie.  
 
 ## Histoire 
