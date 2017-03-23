@@ -29,16 +29,12 @@ Cette méthode « pas à pas » permet non seulement de déclencher des comporte
 E3D-Environnement réunie une équipe pluridisciplinaire composée d’experts en sciences
 de l’information et de la communication, docteurs en gestion de l’espace urbain, d’ingénieurs environnement, d’ingénieurs développeur et docteurs en mathématiques et statistiques.
 
-**Gilles Marchal**
-
-**Directeur Général**
+**Gilles Marchal - Directeur Général**
 
 Fondateur-dirigeant d’E3D-Environnement, spécialiste des changements de comportement à grande échelle en faveur de la transition écologique. 
 Ingénieur de formation -eau énergie déchets-, convaincu du potentiel démocratique offert par les technologies numériques, il a rassemblé une équipe de chercheurs et développeurs passionnés (CivicTech, Sciences comportementales, Technologies numériques, big data…) pour développer des services capables de provoquer de vrais changements de comportement à grande échelle dans les domaines du développement durable.  
 
-**Natacha Romma**
-
-**Associée, Directrice recherche et innovation en communication de changement de comportement**
+**Natacha Romma - Associée, Directrice recherche et innovation en communication de changement de comportement**
 
 Docteur en Sciences de l’Information et de la Communication, Natacha Romma dispose de 10 années d’expérience dans le domaine de la communication de changement de comportement. Experte en communication « engageante » et marketing social, elle rejoint E3D-Environnement en 2011 et travaille sur le développement de méthodes et dispositifs de communication pour faciliter l’adoption et la pérennisation de comportements écoresponsables à grande échelle.
 
