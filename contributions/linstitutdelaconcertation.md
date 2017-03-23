@@ -10,13 +10,13 @@ L'Institut de la Concertation et de la Participation Citoyenne est né de l'init
 
 ## Comment ça fonctionne ?
 
-L'Institut de la concertation et de la participation citoyenne est une association. Il est animé par une équipe de coordination composée de membres qui composent le Conseil d'administration. Dispositif coopératif, l'Institut de la concertation et de la participation citoyenne s'appuie sur les besoins et les initiatives de ses membres pour la mise en œuvre de ses activités et crée des partenariats avec d'autres acteurs de la concertation. 
+L'Institut de la Concertation et de la Participation Citoyenne est une association. Il est animé par une équipe de coordination composée de membres qui composent le Conseil d'administration. Dispositif coopératif, l'Institut de la concertation et de la participation citoyenne s'appuie sur les besoins et les initiatives de ses membres pour la mise en œuvre de ses activités et crée des partenariats avec d'autres acteurs de la concertation. 
 
-**Quels sont ses principes ?**
+## Quels sont ses principes ?
 
-Les principes de l'Institut de la Concertation et de la participation citoyenne sont présentés dans son [Manifeste](http://institutdelaconcertation.org/ManifestE).
+Les principes de l'Institut de la Concertation et de la Participation Citoyenne sont présentés dans son [Manifeste](http://institutdelaconcertation.org/ManifestE).
 
-**Comment participer ?**
+## Comment participer ?
 
 Vous pouvez adhérer si vous vous retrouvez dans notre Manifeste. Vous pouvez aussi simplement demander à être tenu informé de nos activités en vous inscrivant sur la liste de diffusion. L'Institut organise des activités ouvertes à tous, membres ou non, et fait connaitre les événements organisés par d'autres et qui sont relatifs à la concertation.
 
