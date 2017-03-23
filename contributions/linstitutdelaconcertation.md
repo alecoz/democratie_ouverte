@@ -6,7 +6,7 @@ Il réunit des consultants, des agents territoriaux, des responsables associatif
 
 ## Histoire
 
-L'Institut de la concertation et de la participation citoyenne est né de l'initiative de praticiens de la concertation qui souhaitent échanger sur leurs pratiques et promouvoir une "véritable" concertation (voir notre Manifeste). Il est indépendant de toute institution, parti, organisme quelconque. Autrefois appelé Institut de la Concertation, il a modifié son nom en 2016 pour prendre en compte l'évolution des débats sur la concertation et la participation.
+L'Institut de la Concertation et de la Participation Citoyenne est né de l'initiative de praticiens de la concertation qui souhaitent échanger sur leurs pratiques et promouvoir une "véritable" concertation (voir notre Manifeste). Il est indépendant de toute institution, parti, organisme quelconque. Autrefois appelé Institut de la Concertation, il a modifié son nom en 2016 pour prendre en compte l'évolution des débats sur la concertation et la participation.
 
 ## Comment ça fonctionne ?
 
