@@ -1,34 +1,34 @@
 ## Escapademos
 
-Derrière [EscapaDemos](http://etikamondo.com/etika-tour-escapademos/), il y a l'exploration des projets **pour rendre la démocratie plus vivante** et pour la **renforcer aux niveaux organisationnels et institutionnels** en Amérique du Sud, notamment. 
+[EscapaDemos](http://etikamondo.com/etika-tour-escapademos/), est un projet mené par quatre amies qui, pendant 6 mois (avril-septembre 2016) sont parties à la **découverte d'initiatives à même de réinventer notre démocratie, en France et en Amérique du Sud**.
 
-Son action s'articule autour de nombreuses questions : comment valoriser d'autres formes de participation citoyenne au-delà du simple vote ? Qui a le pouvoir de prendre les décisions qui impactent nos vies au quotidien ? Comment rassembler les gens au-delà des clivages économiques, culturels et sociaux habituels ? Comment les jeunes peuvent-ils prendre part aux alternatives citoyennes ? Et tant d'autres..  
+## Exploration
 
-## Histoire 
+Elles ont voulu comprendre comment il était possible de **rendre notre société démocratique plus vivante à toutes les échelles** : dans les relations individuelles, sur un territoire, au sein d’une organisation économique ou à travers les institutions politiques.
 
-A l'origine, EscapaDemos repose sur les questionnements d'un groupe de quatre amies sur la société, leur vie, leur place. Elles ont fait le même constat : leur génération (15-30ans) désavoue de plus en plus le modèle démocratique actuel. La plupart se résignent, s’abstiennent ou font confiance aux extrêmes. Pourtant, il est plus que jamais nécessaire d'œuvrer en faveur d'une société démocratique vivante, où chaque citoyen a la possibilité de s'exprimer, d'agir et de trouver sa place ! 
+Au cours de l’exploration, elles ont étudié : 
+- des **outils démocratiques** : budgets participatifs, monnaies locales, plateformes de participations citoyennes…
+- des **structures expérimentant des formes avancées de démocratie** : des partis politiques mis à l'heure d'internet, des entreprises à  gouvernance partagée, des coopératives d'entrepreneurs…
+- des **démarches visant à cultiver et à diffuser la culture qui sous-tend une démocratie réellement vivante**, dans des domaines aussi divers que l’art, la mise en récit, l’éducation populaire, l’intelligence collective ou encore la coopération en entreprise.
 
-Face à ces constats, elles ont décidé de partir à la rencontre des initiatives citoyennes mises en place, en France pour d'eux d'entres elles, et en Amérique du Sud pour les deux autres. 
+Au total, elles ont effectué **17 immersions participantes (d'une à quatre semaines)** au sein d’initiatives en France et en Amérique du Sud, et **interviewé plus de 200 personnes**.
 
-EscapaDemos est aussi le voyage pilote du programme "WExplore" du mouvement WARN!, un réseau de jeunes qui souhiatent accéleéere la diffusion de solutions alternatives aux défis actuels - emploi, santé, environnement..  
+## Et maintenant ? 
 
-## Méthodologie 
-
-EscapaDemos souhaite **mettre en place un véritable programme de sensibilisation** pour que davantage de jeunes s'emparent des alternatives existantes qui s'appuie sur trois conditions : 
-- **Repenser la manière de faire de la politique** car voter ne permet plus d'avoir un véritable impact sur les décisions qui comptent dans notre quotidien. 
-- **Remetrre l'humain au centre des préoccupations dans les domaines de l'économie et de la finance** dont le fonctionnement est aujourd'hui complétement déconnecté de la réalité. 
-- **Développer une sensibilité démocratique au niveau individuel** : la démocratie n'est pas qu'un système politique mais aussi un mode de vivre ensemble, aujourd'hui il s'effrite face à la montée des inégalités et de l'individualisme. 
+De retour de cette exploration, elles souhaitent désormais agir et entreprendre pour :
+- **Développer la culture démocratique au niveau individuel et collectif** : la démocratie ne peut se résumer à un système institutionnel, c’est avant tout un état d’esprit et une manière de faire société ensemble. 
+- **Repenser la manière de faire de la politique** car le simple vote n’est pas suffisant pour faire démocratie, et ne permet pas d'avoir un véritable impact sur les décisions qui comptent dans notre quotidien.
+- **Mettre l’autonomie et la coopération au cœur de la gouvernance des organisations économiques** pour prendre des décisions plus justes, plus performantes et plus créatives.
 
 ## Equipe 
 
-4 exploratrices d'initiatives démocratiques en France et en Amérique du Sud composent EscapaDemos : 
-- **Aurore Bimont** : "*Je souhaite partir à la rencontre de ceux qui, face aux grands défis écologiques et démocratiques, inventent de nouvelles manières de vivre et de travailler ensemble pour replacer l'humain au coeur de la société.*"
+4 exploratrices ont fait partie du voyage EscapaDemos (association loi 1901) : 
+- **Aurore Bimont** 
+- **Mathilde Imer** 
+- **Delphine Blumereau** 
+- **Marie Verrot** 
 
-- **Delphine Blumereau** : "*Partir pour être inspirée par des initiatives percutantes et pour découvrir des solutions qui permettraient de lutter contre les changements climatiques en innovant*"
-
-- **Mathilde Imer** : "*Persuadée que la démocratie est en innovation permanente, je souhaite aller à la découverte de nouveaux modèles à même de redonner du corps au Vivre Ensemble dont nous avons tant besoin !*"
-
-- **Marie Verrot** : "*Une révolution silencieuse du vivre ensemble est en marche, qui replace les responsabilités inidviduelles et collectives au coeur de notre société et nous donne le pouvoir d'agir. Allons l'explorer !*"
+En partenariat avec Etika Mondo, EscapaDemos a été le voyage pilote du programme "WExplore" du mouvement WARN!, un réseau de jeunes qui souhaitent accélérer la diffusion de solutions alternatives aux défis actuels - emploi, santé, environnement.
 
 ## Contact 
 
