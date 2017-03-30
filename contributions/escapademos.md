@@ -1,15 +1,15 @@
 ## Escapademos
 
-[EscapaDemos](http://etikamondo.com/etika-tour-escapademos/) est un projet mené par quatre amies qui, pendant 6 mois (avril-septembre 2016) sont parties à la **découverte d'initiatives à même de réinventer notre démocratie, en France et en Amérique du Sud**.
+[EscapaDemos](http://etikamondo.com/etika-tour-escapademos/) est un projet mené par quatre amies qui, pendant six mois (avril-septembre 2016) sont parties à la **découverte d'initiatives à même de réinventer notre démocratie en France et en Amérique du Sud**.
 
 ## Exploration
 
-Elles ont voulu comprendre comment il était possible de **rendre notre société démocratique plus vivante à toutes les échelles** : dans les relations individuelles, sur un territoire, au sein d’une organisation économique ou à travers les institutions politiques.
+Elles ont voulu comprendre comment il était possible de **rendre notre société démocratique plus vivante à toutes les échelles** : dans les relations individuelles, sur un territoire, au sein d’une organisation économique ou encore à travers les institutions politiques.
 
 Au cours de l’exploration, elles ont étudié : 
-- des **outils démocratiques** : budgets participatifs, monnaies locales, plateformes de participations citoyennes…
-- des **structures expérimentant des formes avancées de démocratie** : des partis politiques mis à l'heure d'internet, des entreprises à  gouvernance partagée, des coopératives d'entrepreneurs…
-- des **démarches visant à cultiver et à diffuser la culture qui sous-tend une démocratie réellement vivante**, dans des domaines aussi divers que l’art, la mise en récit, l’éducation populaire, l’intelligence collective ou encore la coopération en entreprise.
+- des **outils démocratiques** : budgets participatifs, monnaies locales, plateformes de participation citoyenne, …
+- des **structures expérimentant des formes avancées de démocratie** : des partis politiques mis à l'heure d'internet, des entreprises à  gouvernance partagée, des coopératives d'entrepreneurs, …
+- des **démarches visant à cultiver et à diffuser la culture qui sous-tend une démocratie réellement vivante** dans des domaines aussi divers que l’art, la mise en récit, l’éducation populaire, l’intelligence collective ou encore la coopération en entreprise.
 
 Au total, elles ont effectué **17 immersions participantes (d'une à quatre semaines)** au sein d’initiatives en France et en Amérique du Sud, et **interviewé plus de 200 personnes**.
 
