@@ -1,6 +1,6 @@
 ## Escapademos
 
-[EscapaDemos](http://etikamondo.com/etika-tour-escapademos/) est un projet mené par quatre amies qui, pendant six mois (avril-septembre 2016) sont parties à la **découverte d'initiatives à même de réinventer notre démocratie en France et en Amérique du Sud**.
+[EscapaDemos](http://etikamondo.com/etika-tour-escapademos/) est un projet mené par quatre amies qui, pendant six mois (avril-septembre 2016), sont parties à la **découverte d'initiatives à même de réinventer notre démocratie en France et en Amérique du Sud**.
 
 ## Exploration
 
