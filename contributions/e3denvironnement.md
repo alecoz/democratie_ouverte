@@ -1,14 +1,14 @@
 ## E3D-Environnement 
 
-[E3D-Environnement](http://www.e3d-environnement.com/) développe des solutions visant à provoquer et pérenniser des initiatives et actions collectives d’habitants contribuant au mieux-vivre ensemble et à la dynamisation de la démocratie locale. L’entreprise aide tous les acteurs engagés au cœur de la vie citoyenne (collec¬tivités publiques, bailleurs sociaux, agences locales de l’énergie…) à atteindre leurs objectifs réglementaires environnementaux et à réduire leurs coûts de fonctionnement en agissant directement sur les comportements éco-responsables des citoyens. 
+[E3D-Environnement](http://www.e3d-environnement.com/) développe des solutions visant à provoquer et pérenniser des initiatives et actions collectives d’habitants contribuant au mieux-vivre ensemble et à la dynamisation de la démocratie locale. L’entreprise aide tous les acteurs engagés au cœur de la vie citoyenne (collectivités publiques, bailleurs sociaux, agences locales de l’énergie…) à atteindre leurs objectifs réglementaires environnementaux et à réduire leurs coûts de fonctionnement en agissant directement sur les comportements éco-responsables des citoyens. 
 
 ## Histoire 
 
-Fondée en 2009 par Gilles Marchal,est une Start-up made in Provence, dédiée à l'action publique, spécialisée dans l'accompagnement aux changements de comportements dans tous les domaines liés au développement durable.
+Fondée en 2009 par Gilles Marchal, E3D-Environnement est une Start-up made in Provence, dédiée à l'action publique, et spécialisée dans l'accompagnement aux changements de comportements dans tous les domaines liés au développement durable.
 E3D-Environnement est spécialisée dans le développement de solutions logicielles et psychosociales dédiées au changement comportemental en faveur de la transition écologique.   
 Son équipe pluridisciplinaire réunit des experts en matière de marketing social, ingénierie de l’environnement, data science, statistiques…
 
-E3D-environnement bénéficie du label Jeune Entreprise innovante décerné par le ministère français de l’Enseignement supérieur et de la recherche.
+E3D-Environnement bénéficie du label Jeune Entreprise innovante décerné par le ministère français de l’Enseignement supérieur et de la recherche.
 
 ## Méthodologie  
 
