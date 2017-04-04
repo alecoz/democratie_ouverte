@@ -19,4 +19,4 @@ Nous sommes a-partisans mais revendiquons pleinement d’être engagés. Nous so
 
 ## Contact 
 
-[redaction@mediacites.fr](mailto : redaction@mediacites.fr) 
+[redaction@mediacites.fr](mailto:redaction@mediacites.fr) 
