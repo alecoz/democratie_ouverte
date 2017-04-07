@@ -9,7 +9,7 @@ POP impulse des dynamiques d'innovation sociale appuyées sur des territoires et
 - le développement des compétences et de la capacitation individuelle et collective avec une activité de formation (**POP School**),
 - la mise en place de lieux d'innovation en étant opérateur ou accompagnateur de tiers lieux (**POP Place**),
 - la transition des organisations à travers une offre d'ateliers de mise en action, de conseil et de formation professionnelle (**POP Up**),
-- le développement de la culture numérique avec un travail de recherche, d'animation et d'édition (**POP Lab**).
+- la mise en place et l’animation d’un civic hall à Lille (**POP Lab**).
   
 C'est un acteur des Communs  : ses productions ont vocation à être partagées sous licences libres, et cherchent à contribuer aux Communs existants.
 En tant qu'entreprise sociale ouverte, POP se fixe un objectif de transparence de son fonctionnement, de ses comptes, de ses projets, pour toutes les parties-prenantes de l'entreprise (associés, salariés, clients, usagers, partenaires...)
@@ -25,9 +25,9 @@ Pour POP, le "numérique" renvoie non seulement aux outils techniques (le Web, l
 
 POP est porté par 5 associés, coworkeurs au sein du Mutualab et impliqués dans l'écosystème lillois du numérique et de l'innovation sociale, aux domaines d'intervention complémentaires : 
 - Pierre Trendel : développeur et designer, co-fondateur du Mutualab, associé La Fabrique sociale/La Fabrique de blogs 
-- Florette Eymenier : Initiatrce de l'étude de faisabilité ANIS Grande Ecole du Numérique en Nord-Pas-de-Calais, auteure de webdocumentaire, ex-directrice d'e-artsup
+- Florette Eymenier : Initiatrice de l'étude de faisabilité ANIS Grande Ecole du Numérique en Nord-Pas-de-Calais, auteure de webdocumentaire, ex-directrice d'e-artsup
 - Emmanuel Duvette : co-fondateur du Mutualab, consultant en nouvelles organisations du travail, passé par la banque (Banque Populaire, Crédit Agricole) 
-- Claire-Marie Mériaux : consultante en transformation numérique des entreprises auparabant directrice et fondatrice de UpFactory.com. 
+- Claire-Marie Mériaux : consultante en transformation numérique des entreprises auparavant directrice et fondatrice de UpFactory.com. 
 - Emmanuel Vandamme : co-fondateur de l'association ANIS, associé La Fabrique sociale / La Fabrique de blogs, ancien délégué de l'observatoire des territoires numériques
 
 ## Contact 
