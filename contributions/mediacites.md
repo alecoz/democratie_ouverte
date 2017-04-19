@@ -15,7 +15,7 @@ Ce travail d'investigation n’est actuellement fait qu’à la marge par la pre
 
 ## Equipe
 
-L'équipe de Médiacités est a-partisanne mais se revendique pleinement d’être engagée. Ils soutiennent et accompagnent toutes les initiatives de la société civile susceptibles de faire office de contre-pouvoirs, permettant de cesser avec l’impunité des acteurs locaux aux conflits d’intérêts parfois patents (élus ou non-élus) ainsi que de bâtir des instances de prises de décision plus transparentes, collégiales et inclusives. Cela afin de revivifier la démocratie locale, condition sine qua non à leurs yeux pour espérer combattre le désintérêt pour la chose publique qui se manifeste régulièrement au niveau national. Ne reste plus qu’à en inventer les modalités pratiques… 
+L'équipe de Mediacités est a-partisanne mais se revendique pleinement d’être engagée. Ils soutiennent et accompagnent toutes les initiatives de la société civile susceptibles de faire office de contre-pouvoirs, permettant de cesser avec l’impunité des acteurs locaux aux conflits d’intérêts parfois patents (élus ou non-élus) ainsi que de bâtir des instances de prises de décision plus transparentes, collégiales et inclusives. Cela afin de revivifier la démocratie locale, condition sine qua non à leurs yeux pour espérer combattre le désintérêt pour la chose publique qui se manifeste régulièrement au niveau national. Ne reste plus qu’à en inventer les modalités pratiques… 
 
 ## Contact 
 
