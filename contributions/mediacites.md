@@ -30,4 +30,4 @@ Pour juger de notre travail au-delà des principes et valeurs que nous nous enga
 
 [Page Facebook](https://www.facebook.com/mediacites/) 
 
-Nous contacter par mail :[redaction@mediacites.fr](mailto:redaction@mediacites.fr) 
+Nous contacter par mail : [redaction@mediacites.fr](mailto:redaction@mediacites.fr) 
