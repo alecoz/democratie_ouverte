@@ -24,7 +24,7 @@ Nous soutenons et accompagnerons toutes les initiatives de la société civile s
 
 ## Contact 
 
-Pour juger de notre travail au-delà des principes et valeurs que nous nous engageons à défendre dans notre [manifeste](https://www.mediacites.fr/forum/2016/11/30/notre-manifeste/), le mieux est encore d’aller voir par vous-même à quoi ressemble Mediacités en cliquant ici : www.mediacites.fr. 
+Pour juger de notre travail au-delà des principes et valeurs que nous nous engageons à défendre dans notre [manifeste](https://www.mediacites.fr/forum/2016/11/30/notre-manifeste/), le mieux est encore d’aller voir par vous-même à quoi ressemble Mediacités en cliquant ici : [www.mediacites.fr](https://mediacites.fr). 
 
 [Compte Twitter](https://twitter.com/mediacites)
 
