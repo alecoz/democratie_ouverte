@@ -19,12 +19,16 @@ Dans notre pays très centralisé, la presse nationale se confond trop souvent �
 ## Equipe
 
 Nous sommes a-partisans mais revendiquons pleinement d’être engagés, dans l’optique de renforcer le sentiment de citoyenneté et d’améliorer la démocratie. Au sein de la rédaction de Mediacités, nous sommes persuadés que les journalistes doivent apporter leur pierre à l’édifice, en délivrant une information indépendante et exigeante. Seule une information libre et rigoureuse peut permettre à un maximum de citoyens soucieux de l’intérêt général et/ou du développement de leurs territoires d’accroître leur pouvoir d’agir et ainsi de peser sur leur environnement immédiat en effectuant des choix éclairés.
+
 Nous soutenons et accompagnerons toutes les initiatives de la société civile susceptibles de faire office de contre-pouvoirs, permettant de cesser avec l’impunité des acteurs locaux aux conflits d’intérêts parfois patents (élus ou non-élus) ainsi que de bâtir des instances de prises de décision plus transparentes, collégiales et inclusives. Cela afin de revivifier la démocratie locale, condition sine qua non à nos yeux pour espérer combattre le désintérêt pour la chose publique qui se manifeste régulièrement au niveau national. Ne reste plus qu’à en inventer les modalités pratiques ensemble…
 
 ## Contact 
 
 Pour juger de notre travail au-delà des principes et valeurs que nous nous engageons à défendre dans notre [manifeste](https://www.mediacites.fr/forum/2016/11/30/notre-manifeste/), le mieux est encore d’aller voir par vous-même à quoi ressemble Mediacités en cliquant ici : www.mediacites.fr. 
+
 [Compte Twitter](https://twitter.com/mediacites)
+
 [Page Facebook](https://www.facebook.com/mediacites/) 
+
 Nous contacter par mail : redaction@mediacites.fr
 [redaction@mediacites.fr](mailto:redaction@mediacites.fr) 
