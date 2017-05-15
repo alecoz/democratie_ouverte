@@ -12,9 +12,9 @@ Un réseau de journalistes et auteurs indépendants, basés dans les différente
 ## Objectifs
 
 Régulièrement, Mediacités continuera d'ouvrir de nouvelles antennes d'ici 2020, afin de renouer avec les fondamentaux du journalisme dans les dix principales métropoles françaises : Strasbourg, Montpellier, Rennes, Bordeaux, Nice, etc... 
-Au menu : de l’enquête, de l’enquête et encore de l’enquête sur tous les pouvoirs locaux, qu'ils soient politiques, économiques, syndicaux, associatifs, sportifs, religieux, culturels, etc. Plus que jamais, la presse doit exercer ke rôle de contre-pouvoir lui étant trop souvent prété à tort, et ce quel que soit le pouvoir. 
+Au menu : de l’enquête, de l’enquête et encore de l’enquête sur tous les pouvoirs locaux, qu'ils soient politiques, économiques, syndicaux, associatifs, sportifs, religieux, culturels, etc. Plus que jamais, la presse doit exercer le rôle de contre-pouvoir lui étant trop souvent prêté à tort, et ce quel que soit le pouvoir. 
 
-Dans notre pays très centralisé, la presse nationale se confond trop souvent à une presse exclusivement parisienne. Pour autant, ce travail d'investigation dans les grandes villes n'est fait qu’à la marge, actuellement, par la presse locale – dont le paysage n’a pratiquement pas évolué depuis l’après-guerre. Il serait temps que les médias prennent le pli de la décentralisation et veillent à ce que ce mouvement ne constitue pas seulement un progrès administratif et/ou technique mais aussi démocratique, d'autant plus dans les métroploes dont les pouvoirs ont encore été récemment renforcés.  
+Dans notre pays très centralisé, la presse nationale se confond trop souvent à une presse exclusivement parisienne. Pour autant, ce travail d'investigation dans les grandes villes n'est fait qu’à la marge, actuellement, par la presse locale – dont le paysage n’a pratiquement pas évolué depuis l’après-guerre. Il serait temps que les médias prennent le pli de la décentralisation et veillent à ce que ce mouvement ne constitue pas seulement un progrès administratif et/ou technique mais aussi démocratique, d'autant plus dans les métropôles dont les pouvoirs ont encore été récemment renforcés.  
 
 ## Equipe
 
